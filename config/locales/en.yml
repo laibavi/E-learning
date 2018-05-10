@@ -30,4 +30,25 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  layouts:
+    header:
+      branch: "E-learning"
+      home: "Home"
+      categories: "Categories"
+      type: "Type"
+      word-list: "Word list"
+      lesson: "Lesson"
+      login: "Login"
+      bazon1: "English program is the best of framgia"
+      bazon2: "English is my life"
+      bazon-content1: "welcome to the E-learning framgia"
+      bazon-content2: "You say: English is the best"
+      start-lesson : "Start lesson"
+      previous: "Previous"
+      next: "Next"
+
+    footer:
+      branch: "E-learning framgia"
+      bazon: "Quisque sagittis, est in laoreet semper, enim dui consequat felis, faucibus ornare urna velit nec leo. Maecenas condimentum velit vitae est lobortis fermentum. In tristique sem vitae metus ornare luctus tempus nisl volutpat. Integer et est id nisi tempus pharetra sagittis et libero."
+      framgia: "Framgia VietNam"
+      back-top: "Back to top"
